@@ -78,3 +78,5 @@ dmypy.json
 
 # Log files
 *.log
+
+!buildTools
