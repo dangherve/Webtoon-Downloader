@@ -80,3 +80,5 @@ dmypy.json
 *.log
 
 !buildTools
+
+!.woodpecker
